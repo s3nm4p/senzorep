@@ -1,0 +1,4 @@
+#!/bin/bash
+args=("$@")
+./facerec_fisherfaces $1
+
