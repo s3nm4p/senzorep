@@ -366,7 +366,7 @@ public class MainApp extends javax.swing.JFrame {
             ImageIcon icon2 = new ImageIcon(grayImage);
             jButton4.setIcon(icon2);
             
-            Runtime.getRuntime().exec("echo 'find me hehehe'");
+            Runtime.getRuntime().exec("echo 'find me hehehe lol'");
 
         } catch (IOException ex) {
             Logger.getLogger(MainApp.class.getName()).log(Level.SEVERE, null, ex);
